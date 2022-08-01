@@ -49,10 +49,11 @@
   "questions": [
     {
       "id": 1,
+      "type": "MULTIPLE_CHOICE",
+      "reward": 10,
       "question": {
-        "type": "MULTIPLE_CHOICE",
+        "type": "TEXT",
         "title": "What is Cryptocurrency?",
-        "reward": 10,
         "description": null
       },
       "answers": [
@@ -89,10 +90,11 @@
     },
     {
       "id": 2,
+      "type": "MULTIPLE_CHOICE",
+      "reward": 20,
       "question": {
-        "type": "MULTIPLE_CHOICE",
+        "type": "TEXT",
         "title": "What is money?",
-        "reward": 20,
         "description": "Money is any item or verifiable record that is generally accepted as payment for goods and ____1____ and repayment of debts, such as taxes, in a particular country or socio-economic context. The main functions of money are distinguished as: a medium of exchange, a unit of account, and as a ____2____"
       },
       "answers": [
@@ -129,10 +131,11 @@
     },
     {
       "id": 3,
+      "type": "MULTIPLE_CHOICE",
+      "reward": 30,
       "question": {
-        "type": "MULTIPLE_CHOICE",
+        "type": "TEXT",
         "title": "What is the difference between cryptocurrencies and blockchain?",
-        "reward": 30,
         "description": "Blockchain is a storage technology that is used to save data on ____1____ networks. Cryptocurrency is a medium of exchange like the US dollar. A blockchain can be used for storing information beyond cryptocurrency transaction information. Blockchain technology has uses beyond cryptocurrency. Cryptocurrency is a form of digital ____2____. "
       },
       "answers": [
@@ -169,10 +172,11 @@
     },
     {
       "id": 4,
+      "type": "MULTIPLE_CHOICE",
+      "reward": 40,
       "question": {
-        "type": "MULTIPLE_CHOICE",
+        "type": "TEXT",
         "title": "What can I do with cryptocurrency?",
-        "reward": 40,
         "description": null
       },
       "answers": [
@@ -209,10 +213,11 @@
     },
     {
       "id": 5,
+      "type": "MULTIPLE_CHOICE",
+      "reward": 50,
       "question": {
-        "type": "MULTIPLE_CHOICE",
+        "type": "TEXT",
         "title": "What are the benefits of blockchain technology",
-        "reward": 50,
         "description": "The main benefit of using blockchain technology is that it is decentralized. No one owns the network, which makes it resilient and resistant to failures and manipulation. Since network information must be verified by many participants, there are rarely errors, eliminating erroneous information. Eliminating the need for an intermediary also reduces cost."
       },
       "answers": [
@@ -237,10 +242,11 @@
     },
     {
       "id": 6,
+      "type": "SORT",
+      "reward": 60,
       "question": {
-        "type": "SORT",
+        "type": "TEXT",
         "title": "So, what is money?",
-        "reward": 60,
         "description": null
       },
       "answers": [
