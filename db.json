@@ -2,7 +2,7 @@
   "courses": [
     {
       "id": "course_1",
-      "title": "EZ Courses  🌟",
+      "title": "EZ Courses",
       "description": "Educational program of EZ Wallet",
       "parts": [
         {
@@ -93,7 +93,7 @@
         "question": {
           "type": "TEXT",
           "title": "What is money?",
-          "description": "Money is any item or verifiable record that is generally accepted as payment for goods and ____________ and repayment of debts, such as taxes. The main functions of money are distinguished as: a medium of exchange, a unit of account, and as a store of _____________. "
+          "description": "Money is any item or verifiable record that is generally accepted as payment for goods and _/_ and repayment of debts, such as taxes. The main functions of money are distinguished as: a medium of exchange, a unit of account, and as a store of _/_ . "
         },
         "answers": [
           {
@@ -146,7 +146,7 @@
         "question": {
           "type": "TEXT",
           "title": "What is the difference between cryptocurrencies and blockchain?",
-          "description": "Blockchain is a storage technology that is used to save data on _______________ networks. Cryptocurrency is a medium of exchange like the US dollar. A blockchain can be used for storing information beyond cryptocurrency transaction information. Blockchain technology has uses beyond cryptocurrency. Cryptocurrency is a form of digital ____________. "
+          "description": "Blockchain is a storage technology that is used to save data on _/_ networks. Cryptocurrency is a medium of exchange like the US dollar. A blockchain can be used for storing information beyond cryptocurrency transaction information. Blockchain technology has uses beyond cryptocurrency. Cryptocurrency is a form of digital _/_ . "
         },
         "answers": [
           {
@@ -380,7 +380,7 @@
       "question": {
         "type": "TEXT",
         "title": "What is money?",
-        "description": "Money is any item or verifiable record that is generally accepted as payment for goods and ____________ and repayment of debts, such as taxes. The main functions of money are distinguished as: a medium of exchange, a unit of account, and as a store of _____________. "
+        "description": "Money is any item or verifiable record that is generally accepted as payment for goods and _/_ and repayment of debts, such as taxes. The main functions of money are distinguished as: a medium of exchange, a unit of account, and as a store of _/_ . "
       },
       "answers": [
         {
@@ -433,7 +433,7 @@
       "question": {
         "type": "TEXT",
         "title": "What is the difference between cryptocurrencies and blockchain?",
-        "description": "Blockchain is a storage technology that is used to save data on _______________ networks. Cryptocurrency is a medium of exchange like the US dollar. A blockchain can be used for storing information beyond cryptocurrency transaction information. Blockchain technology has uses beyond cryptocurrency. Cryptocurrency is a form of digital ____________. "
+        "description": "Blockchain is a storage technology that is used to save data on _/_ networks. Cryptocurrency is a medium of exchange like the US dollar. A blockchain can be used for storing information beyond cryptocurrency transaction information. Blockchain technology has uses beyond cryptocurrency. Cryptocurrency is a form of digital _/_. "
       },
       "answers": [
         {
@@ -485,7 +485,7 @@
         },
         {
           "type": "TEXT",
-          "content": "Crypto can earn interest with ‘yield farming",
+          "content": "Crypto can earn interest with yield farming",
           "isCorrect": false,
           "index": 2
         },
