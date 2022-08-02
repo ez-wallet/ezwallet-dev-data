@@ -106,7 +106,7 @@
             "type": "TEXT",
             "content": "Energy",
             "isCorrect": false,
-            "index": -1
+            "index": 3
           },
           {
             "type": "TEXT",
@@ -118,19 +118,19 @@
             "type": "TEXT",
             "content": "Time",
             "isCorrect": false,
-            "index": -1
+            "index": 4
           },
           {
             "type": "TEXT",
             "content": "Items",
             "isCorrect": false,
-            "index": -1                                  
+            "index": 5                                  
           },
           {
             "type": "TEXT",
             "content": "Reputation",
             "isCorrect": false,
-            "index": -1
+            "index": 6
           }
         ],
         "lesson": {
@@ -159,7 +159,7 @@
             "type": "TEXT",
             "content": "centralized",
             "isCorrect": false,
-            "index": -1
+            "index": 3
           },
           {
             "type": "TEXT",
@@ -171,7 +171,7 @@
             "type": "TEXT",
             "content": "storage",
             "isCorrect": true,
-            "index": -1
+            "index": 4
           }
         ],
         "lesson": {
@@ -393,7 +393,7 @@
           "type": "TEXT",
           "content": "Energy",
           "isCorrect": false,
-          "index": -1
+          "index": 3
         },
         {
           "type": "TEXT",
@@ -405,19 +405,19 @@
           "type": "TEXT",
           "content": "Time",
           "isCorrect": false,
-          "index": -1
+          "index": 4
         },
         {
           "type": "TEXT",
           "content": "Items",
           "isCorrect": false,
-          "index": -1                                  
+          "index": 5                                  
         },
         {
           "type": "TEXT",
           "content": "Reputation",
           "isCorrect": false,
-          "index": -1
+          "index": 6
         }
       ],
       "lesson": {
@@ -446,7 +446,7 @@
           "type": "TEXT",
           "content": "centralized",
           "isCorrect": false,
-          "index": -1
+          "index": 3
         },
         {
           "type": "TEXT",
@@ -458,7 +458,7 @@
           "type": "TEXT",
           "content": "storage",
           "isCorrect": true,
-          "index": -1
+          "index": 4
         }
       ],
       "lesson": {
