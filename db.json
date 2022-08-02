@@ -124,7 +124,7 @@
             "type": "TEXT",
             "content": "Items",
             "isCorrect": false,
-            "index": 5                                  
+            "index": 5
           },
           {
             "type": "TEXT",
@@ -411,7 +411,7 @@
           "type": "TEXT",
           "content": "Items",
           "isCorrect": false,
-          "index": 5                                  
+          "index": 5
         },
         {
           "type": "TEXT",
@@ -433,7 +433,7 @@
       "question": {
         "type": "TEXT",
         "title": "What is the difference between cryptocurrencies and blockchain?",
-        "description": "Blockchain is a storage technology that is used to save data on _/_ networks. Cryptocurrency is a medium of exchange like the US dollar. A blockchain can be used for storing information beyond cryptocurrency transaction information. Blockchain technology has uses beyond cryptocurrency. Cryptocurrency is a form of digital _/_. "
+        "description": "Blockchain is a storage technology that is used to save data on _/_ networks. Cryptocurrency is a medium of exchange like the US dollar. A blockchain can be used for storing information beyond cryptocurrency transaction information. Blockchain technology has uses beyond cryptocurrency. Cryptocurrency is a form of digital _/_ . "
       },
       "answers": [
         {
