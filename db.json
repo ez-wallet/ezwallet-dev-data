@@ -336,6 +336,7 @@
       "id": 1,
       "type": "MULTIPLE_CHOICE",
       "reward": 10,
+      "questionInfo": "Quiz Time",
       "question": {
         "type": "TEXT",
         "title": "What is Cryptocurrency?",
@@ -377,6 +378,7 @@
       "id": 2,
       "type": "FILL_IN_BLANKS",
       "reward": 20,
+      "questionInfo": "Fill in the blanks",
       "question": {
         "type": "TEXT",
         "title": "What is money?",
@@ -430,6 +432,7 @@
       "id": 3,
       "type": "FILL_IN_BLANKS",
       "reward": 30,
+      "questionInfo":"Fill in the blanks",
       "question": {
         "type": "TEXT",
         "title": "What is the difference between cryptocurrencies and blockchain?",
@@ -471,6 +474,7 @@
       "id": 4,
       "type": "MULTIPLE_CHOICE",
       "reward": 40,
+      "questionInfo": "Choose the correct answer",
       "question": {
         "type": "TEXT",
         "title": "What can I do with cryptocurrency?",
@@ -512,6 +516,7 @@
       "id": 5,
       "type": "MULTIPLE_CHOICE",
       "reward": 50,
+      "questionInfo": "True or false",
       "question": {
         "type": "TEXT",
         "title": "What are the benefits of blockchain technology",
@@ -541,6 +546,7 @@
       "id": 6,
       "type": "SORT",
       "reward": 60,
+      "questionInfo": "Word formation",
       "question": {
         "type": "TEXT",
         "title": "So, what is money?",
@@ -633,7 +639,7 @@
       "email": "tri2@gmail.com",
       "password": "plaintext",
       "username": "minhtri",
-      "createAt": "2015-12-01T00:00:00",
+      "createAt": "2015-12-01T00:00:00",                  
       "updatedAt": "2015-12-01T00:00:00",
       "role": 2
     }
