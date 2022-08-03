@@ -49,6 +49,8 @@
         "id": 1,
         "type": "MULTIPLE_CHOICE",
         "reward": 10,
+        "questionInfo": "Quiz Time",
+        "mascotId": "mascot_1",
         "question": {
           "type": "TEXT",
           "title": "What is Cryptocurrency?",
@@ -90,6 +92,8 @@
         "id": 2,
         "type": "FILL_IN_BLANKS",
         "reward": 20,
+        "questionInfo": "Fill in the blanks",
+        "mascotId": "mascot_2",
         "question": {
           "type": "TEXT",
           "title": "What is money?",
@@ -143,6 +147,8 @@
         "id": 3,
         "type": "FILL_IN_BLANKS",
         "reward": 30,
+        "questionInfo":"Fill in the blanks",
+        "mascotId": "mascot_3",
         "question": {
           "type": "TEXT",
           "title": "What is the difference between cryptocurrencies and blockchain?",
@@ -185,10 +191,12 @@
     },
     {
       "id": "part_2",
-      "question": [{
+      "question": [    {
         "id": 4,
         "type": "MULTIPLE_CHOICE",
         "reward": 40,
+        "questionInfo": "Choose the correct answer",
+        "mascotId": "mascot_4",
         "question": {
           "type": "TEXT",
           "title": "What can I do with cryptocurrency?",
@@ -203,7 +211,7 @@
           },
           {
             "type": "TEXT",
-            "content": "Crypto can earn interest with ‘yield farming",
+            "content": "Crypto can earn interest with yield farming",
             "isCorrect": false,
             "index": 2
           },
@@ -230,6 +238,8 @@
         "id": 5,
         "type": "MULTIPLE_CHOICE",
         "reward": 50,
+        "questionInfo": "True or false",
+        "mascotId": "mascot_1",
         "question": {
           "type": "TEXT",
           "title": "What are the benefits of blockchain technology",
@@ -259,6 +269,8 @@
         "id": 6,
         "type": "SORT",
         "reward": 60,
+        "questionInfo": "Word formation",
+        "mascotId": "mascot_1",
         "question": {
           "type": "TEXT",
           "title": "So, what is money?",
@@ -337,6 +349,7 @@
       "type": "MULTIPLE_CHOICE",
       "reward": 10,
       "questionInfo": "Quiz Time",
+      "mascotId": "mascot_1",
       "question": {
         "type": "TEXT",
         "title": "What is Cryptocurrency?",
@@ -379,6 +392,7 @@
       "type": "FILL_IN_BLANKS",
       "reward": 20,
       "questionInfo": "Fill in the blanks",
+      "mascotId": "mascot_2",
       "question": {
         "type": "TEXT",
         "title": "What is money?",
@@ -433,6 +447,7 @@
       "type": "FILL_IN_BLANKS",
       "reward": 30,
       "questionInfo":"Fill in the blanks",
+      "mascotId": "mascot_3",
       "question": {
         "type": "TEXT",
         "title": "What is the difference between cryptocurrencies and blockchain?",
@@ -475,6 +490,7 @@
       "type": "MULTIPLE_CHOICE",
       "reward": 40,
       "questionInfo": "Choose the correct answer",
+      "mascotId": "mascot_4",
       "question": {
         "type": "TEXT",
         "title": "What can I do with cryptocurrency?",
@@ -517,6 +533,7 @@
       "type": "MULTIPLE_CHOICE",
       "reward": 50,
       "questionInfo": "True or false",
+      "mascotId": "mascot_1",
       "question": {
         "type": "TEXT",
         "title": "What are the benefits of blockchain technology",
@@ -547,6 +564,7 @@
       "type": "SORT",
       "reward": 60,
       "questionInfo": "Word formation",
+      "mascotId": "mascot_1",
       "question": {
         "type": "TEXT",
         "title": "So, what is money?",
@@ -642,6 +660,28 @@
       "createAt": "2015-12-01T00:00:00",                  
       "updatedAt": "2015-12-01T00:00:00",
       "role": 2
+    }
+  ],
+  "mascots": [
+    {
+      "id": "mascot_1",
+      "name": "Mascot bring eth and btc",
+      "image": "https://cdn2.mhpbooks.com/2014/03/test_ttp_big.jpg"
+    },
+    {
+      "id": "mascot_2",
+      "name": "Mascot bring money",
+      "image": "https://cdn2.mhpbooks.com/2014/03/test_ttp_big.jpg"
+    },
+    {
+      "id": "mascot_3",
+      "name": "Mascot thinking",
+      "image": "https://cdn2.mhpbooks.com/2014/03/test_ttp_big.jpg"
+    },
+    {
+      "id": "mascot_4",
+      "name": "Mascot doing abcdxyz",
+      "image": "https://cdn2.mhpbooks.com/2014/03/test_ttp_big.jpg"
     }
   ],
   "tests": [
